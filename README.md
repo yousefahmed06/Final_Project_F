@@ -64,5 +64,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## 📬 Contact
 
 * 📧 [Yousef Ahmed Mohamed](mailto:yousefintelegent@gmail.com)
-* 📧 [Yomna Saad Abdelazeem](mailto:yousefintelegent@gmail.com)
+* 📧 [Yomna Saad Abdelazeem](mailto:yomnasaadabdelazeem123@gmail.com)
 
