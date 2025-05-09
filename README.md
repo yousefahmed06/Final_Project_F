@@ -7,7 +7,7 @@ This project delves into UK railway data to uncover the causes of delays, analyz
 ## 📁 Repository Contents
 
 * **([Final_project.ipynb][https://github.com/yousefahmed06/Final_Project_F/blob/main/Final_project.ipynb])**: Jupyter Notebook containing data cleaning, exploratory data analysis (EDA), and modeling processes.
-* **(Final project)[https://github.com/yousefahmed06/Final_Project_F/blob/main/Final Project.pbi](https://github.com/yousefahmed06/Final_Project_F/blob/main/Final%20Project.pbix)x])**: Power BI file with interactive dashboards visualizing delays, ticket sales, and journey performance.
+* **(Final project)[https://github.com/yousefahmed06/Final_Project_F/blob/main/Final%20Project.pbix]**: Power BI file with interactive dashboards visualizing delays, ticket sales, and journey performance.
 * **([Railway_clean][https://github.com/yousefahmed06/Final_Project_F/blob/main/Railway_clean.csv])**: Cleaned dataset used for analysis.
 * **([railway][https://github.com/yousefahmed06/Final_Project_F/blob/main/railway.csv])**: Original raw dataset.
 * **([Business insights][https://github.com/yousefahmed06/Final_Project_F/blob/main/Business insights.pdf])**: Document summarizing key business insights derived from the analysis.
