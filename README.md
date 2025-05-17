@@ -12,7 +12,7 @@ This project analyzes UK railway data to uncover the causes of delays, understan
 * [**Final Project.pbix**](https://github.com/yousefahmed06/Final_Project_F/blob/main/Final%20Project.pbix): Power BI file with interactive dashboards visualizing delays, ticket sales, and journey performance.
 * [**Railway\_clean.csv**](https://github.com/yousefahmed06/Final_Project_F/blob/main/Railway_clean.csv): Cleaned dataset used for analysis.
 * [**railway.csv**](https://github.com/yousefahmed06/Final_Project_F/blob/main/railway.csv): Original raw dataset.
-* [**Business insights.pdf**](https://github.com/yousefahmed06/Final_Project_F/blob/main/Business%20insights.pdf): Summary of key business insights derived from the analysis.
+* [**Business insights.pdf**](https://github.com/yousefahmed06/Final_Project_F/blob/main/Bussiness%20insights.pdf): Summary of key business insights derived from the analysis.
 * [**Dashboard.pdf**](https://github.com/yousefahmed06/Final_Project_F/blob/main/Dashboard.pdf): Static version of the Power BI dashboard.
 * [**UK Train Rides Technical Report.pdf**](https://github.com/yousefahmed06/Final_Project_F/blob/main/UK%20Train%20Rides%20Technical%20Report.pdf): Comprehensive technical report detailing methodologies and findings.
 
